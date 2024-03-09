@@ -3,7 +3,7 @@ import Suraj_Singh_Resume from "../assests/Suraj_Singh_Resume.pdf";
 import TypeWriter from "./TypeWriter";
 
 const typeWriter = ["Singh"];
-const typeWriter2 = ["I'm A Mern Developer...", "Ready to Work with you..."];
+const typeWriter2 = ["I'm A Android Developer...", "Ready to Work with you..."];
 
 const Home = () => {
   return (
@@ -15,7 +15,7 @@ const Home = () => {
             <span className="two">I'm</span>
 
             <h1 id="user-detail-name" style={{marginTop : "15px"}}> 
-              Suraj <TypeWriter data={typeWriter} />
+              Manish <TypeWriter data={typeWriter} />
             </h1>
           </div>
           <h3 id="user-detail-skill">
