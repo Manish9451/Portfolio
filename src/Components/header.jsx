@@ -15,7 +15,7 @@ const Header = () => {
       <header id="nav-menu">
         <a href="#" className="logo" onClick={() => setActiveNav("#")}>
           {" "}
-          Suraj <span> Singh </span>
+          Manish <span> Singh </span>
         </a>
         <ul className="navlist">
           <li>
